@@ -1,7 +1,5 @@
-<html>
- <body>
+
  <?php
- echo '<p>Hello, world!</p>';
+ echo 'Hello, world!';
  ?>
- </body>
-</html>
+
